@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/phone_catalog/static/css/main.feacc54b.chunk.css",
+    "main.js": "/phone_catalog/static/js/main.4aade153.chunk.js",
+    "main.js.map": "/phone_catalog/static/js/main.4aade153.chunk.js.map",
+    "runtime-main.js": "/phone_catalog/static/js/runtime-main.500c64aa.js",
+    "runtime-main.js.map": "/phone_catalog/static/js/runtime-main.500c64aa.js.map",
+    "static/js/2.ddb0b300.chunk.js": "/phone_catalog/static/js/2.ddb0b300.chunk.js",
+    "static/js/2.ddb0b300.chunk.js.map": "/phone_catalog/static/js/2.ddb0b300.chunk.js.map",
+    "index.html": "/phone_catalog/index.html",
+    "static/css/main.feacc54b.chunk.css.map": "/phone_catalog/static/css/main.feacc54b.chunk.css.map",
+    "static/js/2.ddb0b300.chunk.js.LICENSE.txt": "/phone_catalog/static/js/2.ddb0b300.chunk.js.LICENSE.txt",
+    "static/media/Header.scss": "/phone_catalog/static/media/Favourites.bd243453.svg",
+    "static/media/CartPage.scss": "/phone_catalog/static/media/Plus.dea15724.svg",
+    "static/media/PageHeader.scss": "/phone_catalog/static/media/Home.e110292a.svg",
+    "static/media/App.scss": "/phone_catalog/static/media/Vector-heart.2bf6be88.svg",
+    "static/media/Navigation.scss": "/phone_catalog/static/media/bars-solid.807b7370.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.500c64aa.js",
+    "static/js/2.ddb0b300.chunk.js",
+    "static/css/main.feacc54b.chunk.css",
+    "static/js/main.4aade153.chunk.js"
+  ]
+}
